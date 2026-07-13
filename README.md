@@ -61,6 +61,6 @@ The focus is on learning by building, improving code quality over time, and docu
 
 **Author**
 
-**Sushant Kumar**
+**Sushant Kumar Khobian**
 
 Embedded Systems • Firmware • IoT • Robotics
