@@ -35,6 +35,7 @@ Each module emphasizes clean firmware architecture, reliability, debugging, comm
 - ESP-IDF
 - STM32CubeIDE
 - FreeRTOS
+- PlatformIO
 
 ### Communication
 - MQTT
