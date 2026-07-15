@@ -1,4 +1,4 @@
-# Embedded Systems Lab
+# Embedded Engineering Lab
 
 > A collection of production-oriented embedded systems modules built to explore real-world firmware, IoT, and embedded engineering concepts.
 
